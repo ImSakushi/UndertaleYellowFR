@@ -1,4 +1,4 @@
-# Dépôts d'Undertale Yellow FR pour la traduction française (non officielle) d'Undertale Yellow
+# Dépôt d'Undertale Yellow FR pour la traduction française (non officielle) d'Undertale Yellow
 
 ## Crédits
 ### Traduction des sprites et pixel art
