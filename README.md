@@ -15,6 +15,6 @@
 
 ### Undertale Yellow
 - Team Undertale Yellow (dirigée par MasterSwordRemix)
-Et surtout, surtout, Toby Fox et son équipe pour Undertale
+- Et surtout, surtout, Toby Fox et son équipe pour Undertale
 
 Undertale est une marque déposée de Toby Fox. Undertale Yellow est un fangame. Nous ne revendiquons aucun droit sur l'appartenance absolue des éléments présents dans ce dépôt.
