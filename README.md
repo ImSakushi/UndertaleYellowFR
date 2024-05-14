@@ -1,5 +1,5 @@
 # Dépôt d'Undertale Yellow FR pour la traduction française (non officielle) d'Undertale Yellow
-Ce dépôt contient uniquement les ressources (sprites/polices/audios) nécessaires à la traudction du jeu.
+Ce dépôt contient uniquement les ressources (sprites/polices/audios) nécessaires à la traduction du jeu.
 
 ## Crédits
 ### Direction de la traduction
